@@ -12,7 +12,7 @@ Soy graduado en Periodismo, tengo un máster en Cultura Contemporánea y un posg
 
 ## Skills
 
-Estoy estudiando __C__ en 42 Madrid, y dentro de poco empezaré a aprender __Python__. En la carrera de Periodismo aprendí algo de HTML y CSS. 
+Estoy estudiando __C__ en 42 Madrid, y dentro de poco empezaré a aprender __Python__. En la carrera de Periodismo aprendí algo de __HTML__ y __CSS__. 
 
 ## 📫 Contacto: 
 Por mail:  
