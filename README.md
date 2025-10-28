@@ -17,6 +17,7 @@ Estoy estudiando __C__ en 42 Madrid, y dentro de poco empezaré a aprender __Pyt
 ## 📫 Contacto: 
 Por mail:  
 antinodo@proton.me  
+
 Por redes:
 <a href="https://linkedin.com/in/flypirate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flypiratelinkedin" height="30" width="40" /></a>  
 
