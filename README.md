@@ -10,7 +10,7 @@ Soy graduado en Periodismo, tengo un máster en Cultura Contemporánea y un posg
 
 ## Skills
 
-Estoy estudiando #C en 42 Madrid, y dentro de poco empezaré a aprender #Python. En la carrera de Periodismo aprendí algo de HTML y CSS. 
+Estoy estudiando *C* en 42 Madrid, y dentro de poco empezaré a aprender *Python*. En la carrera de Periodismo aprendí algo de HTML y CSS. 
 
 ## 📫 Contacto: 
 Por mail - antinodo@proton.me
@@ -20,4 +20,4 @@ Por redes:
 
 Estoy mudándome al fediverso. Puedes encontrarme en [Mastodon](https://masto.es/@vladberto). 
 
-## return (bendiciones:)
+# return (bendiciones:)
