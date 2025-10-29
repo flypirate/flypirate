@@ -4,7 +4,7 @@ Has descubierto el backend de mi personalidad. Te presento: mi vida como program
 
 ## About me
 
-Tras iniciar mi vida laboral como periodista, un día descubrí que los ordenadores desataban mi curiosidad como pocas otras cosas lo hacían. Me convertí en estudiante de 42 Madrid en marzo de 2025, y desde entonces no he abandonado la nave espacial del código. Me interesa el open source como forma de conseguir la independencia tecnológica, y la programación ética que sitúa al usuario en el foco frente a algoritmos malignos y dark patterns. Combino mi faceta periodística con la tecnológica en mi <a href="https://antinodo.substack.com" target="_blank" rel="noopener noreferrer">newsletter</a>.
+Tras iniciar mi vida laboral como periodista, un día descubrí que los ordenadores desataban mi curiosidad como pocas otras cosas lo hacían. Me convertí en estudiante de 42 Madrid en marzo de 2025, y desde entonces no he abandonado la nave espacial del código. Me interesa el open source como forma de conseguir la independencia tecnológica, y la programación ética que pone el foco en el usuario frente a algoritmos malignos y dark patterns. Combino mi faceta periodística con la tecnológica en mi <a href="https://antinodo.substack.com" target="_blank" rel="noopener noreferrer">newsletter</a>.
 
 <div align="center">
    <a href="https://profile.intra.42.fr/users/albegar2">
