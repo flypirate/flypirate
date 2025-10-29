@@ -25,7 +25,7 @@ Por redes:
 
 Estoy mudándome al fediverso. Puedes encontrarme en [Mastodon](https://masto.es/@vladberto). 
 
-## Portfolio
+## 🎨 Portfolio
 Actualmente mi portfolio se compone de los proyectos que he realizado en 42:  
 
 __Level__ __1__  
