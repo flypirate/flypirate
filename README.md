@@ -1,4 +1,4 @@
-## hi human
+## _hola humano_
 
 Has descubierto el backend de mi personalidad. Te presento: mi vida como programador. 
 
