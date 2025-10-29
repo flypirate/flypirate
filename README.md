@@ -27,13 +27,19 @@ Estoy mudándome al fediverso. Puedes encontrarme en [Mastodon](https://masto.es
 
 ## Portfolio
 Actualmente mi portfolio se compone de los proyectos que he realizado en 42:  
+
 __Level__ __1__  
-[libft](https://github.com/flypirate/libft) -> Mi propia librería de funciones en C. 
-__Level__ __2__
-[ft_printf](https://github.com/flypirate/ft_printf) -> Reconstrucción de la función printf.
+
+[libft](https://github.com/flypirate/libft) -> Mi propia librería de funciones en C.  
+
+__Level__ __2__  
+
+[ft_printf](https://github.com/flypirate/ft_printf) -> Reconstrucción de la función printf.  
 [get next line](https://github.com/flypirate/getnextline) -> Programa para leer archivos.  
-__Level__ __3__
-[pipex](https://github.com/flypirate/pipex) -> Programa que simula el comportamiento de un pipe (|). 
+
+__Level__ __3__  
+
+[pipex](https://github.com/flypirate/pipex) -> Programa que simula el comportamiento de un pipe (|).  
 [push swap](https://github.com/flypirate/pushswap) -> Programa que ordena números con eficiencia O(n + k).  
 [so_long](https://github.com/flypirate/so_long) -> Mi propio minijuego en 2D.  
 
