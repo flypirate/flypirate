@@ -16,10 +16,10 @@ Tras iniciar mi vida laboral como periodista, un día descubrí que los ordenado
 
 Estoy estudiando __C__ en 42 Madrid, y dentro de poco empezaré a aprender __Python__. En la carrera de Periodismo aprendí algo de __HTML__ y __CSS__. 
 <div align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="html" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
 </div>
 
 ## 📫 Contacto  
