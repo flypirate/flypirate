@@ -19,6 +19,7 @@ Estoy estudiando __C__ en 42 Madrid, y dentro de poco empezaré a aprender __Pyt
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="html" width="40" height="40"/>
 </div>
 
 ## 📫 Contacto  
