@@ -8,7 +8,7 @@ Tras iniciar mi vida laboral como periodista, un día descubrí que los ordenado
 
 <div align="center">
    <a href="https://profile.intra.42.fr/users/albegar2">
-  <img src="./42logo.png" alt="flypirate42" width="200" height="200" />
+  <img src="./42logo.png" alt="flypirate42" width="120" height="120" />
    </a>
 </div>
 
