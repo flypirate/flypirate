@@ -49,4 +49,7 @@ __Level__ __3__
 ✅[push swap](https://github.com/flypirate/pushswap) -> Programa que ordena números con eficiencia O(n + k).  
 ✅[so_long](https://github.com/flypirate/so_long) -> Mi propio minijuego en 2D.  
 
+//
+También tengo un listado de ejercicios en C, característicos de 42, resueltos aquí: [ejercicios💯](https://github.com/flypirate/exercises)
+
 # return (bendiciones:)✨
