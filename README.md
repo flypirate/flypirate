@@ -49,6 +49,10 @@ __Level__ __3__
 ✅[push swap](https://github.com/flypirate/pushswap) -> Programa que ordena números con eficiencia O(n + k).  
 ✅[so_long](https://github.com/flypirate/so_long) -> Mi propio minijuego en 2D.  
 
+__Level__ __4__  
+
+✅[philo](https://github.com/flypirate/pipex](https://github.com/flypirate/philo) -> Recreación del conocido problema de programación llamado "dining philosophers problem".
+
 //
 También tengo un listado de ejercicios en C, característicos de 42, resueltos aquí: [ejercicios💯](https://github.com/flypirate/exercises)
 
