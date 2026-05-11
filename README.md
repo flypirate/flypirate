@@ -53,6 +53,7 @@ __Level__ __4__
 
 ✅[philo](https://github.com/flypirate/philo) --> Recreación del conocido problema de programación llamado "dining philosophers problem".
 😈[divashell](https://github.com/flypirate/philo) --> Recreación de una bash simple.
+
 //
 También tengo un listado de ejercicios en C, característicos de 42, resueltos aquí: [ejercicios💯](https://github.com/flypirate/exercises)
 
