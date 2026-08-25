@@ -1,6 +1,6 @@
 ## _hola humano_
 
-Has descubierto el backend de mi personalidad. Te presento: mi vida como programador. 
+Has descubierto el backend de mi personalidad. Te presento: mi trabajo como programador. 
 
 ## 👽️ About me
 
